@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578825422625",
+    "project_id": "ottamind-27bd8",
+    "storage_bucket": "ottamind-27bd8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578825422625:android:08b83989fac2222e1ba060",
+        "android_client_info": {
+          "package_name": "com.example.ottamind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxjYrFdJtxHhkTMVwOA1FklS3b0Rzaofk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
